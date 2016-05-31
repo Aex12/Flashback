@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flashback-config>
+  <keys>
+    <!--
+    ////////////////////////////////////////////
+	  ////   Full list of keyboard codes:     ////
+	  ////     https://goo.gl/3oFpmj          ////
+	  ////////////////////////////////////////////
+
+
+	 //////////////////////////////////////
+	 ///     Full list of natives:      ///
+	 /// http://www.dev-c.com/nativedb/ ///
+	 //////////////////////////////////////
+
+
+	 //////////////////////////////////////////////////////////////////////
+	 //                  Controller key codes
+   //
+	 //-BUTTONS:       |       D-PAD:          |       RIGHT-STICK
+	 //  A - 18        |         Left - 15     |         Left - 5
+	 //  B - 45        |         Right - 74    |         Right - 1
+	 //  X - 22        |         Up - 27       |         Up - 3
+	 //  Y - 23        |         Down - 19     |         Down - 2
+	 //  LB - 37       |                       |
+	 //  RB - 44       |                       |       LEFT-STICK
+	 //  LT - 10       |                       |         Left - 34
+	 //  RT - 11       |                       |         Right - 9
+	 //  LS - 28       |                       |         Up - 32
+	 //  RS - 29       |                       |         Down - 8
+	 //  Select - 0    |                       |
+	 //  Start - Unknown
+	//////////////////////////////////////////////////////////////////////
+    -->
+    
+    <!-- This is the key that will do a 3x faster flashback with a keyboard -->
+    <keyboard function="kb_flashback" value="76"/>
+    <!-- This two keys, are the combination that is needed to be pressed to do a flashback with a gamepad -->
+    <gamepad function="gp_flashback_1" value="44"/>
+    <gamepad function="gp_flashback_2" value="10"/>
+    <!-- This is the key that will do a 3x faster flashback with a gamepad -->
+    <gamepad function="gp_flashback_3" value="11"/>
+  </keys>
+</flashback-config>
