@@ -2,27 +2,28 @@ This is not final version, and needs more work to get it fully working.
 
 With this mod you can travel back in time, it's inspired on Grid 2's Flashbacks. 
 
-Requirements: 
+***Requirements:*** 
 - ScriptHookV ( http://www.dev-c.com/gtav/scripthookv/ ) 
 
-Installation: 
+***Installation:***
 - Install ScriptHookV 
 - Copy flashback.asi to the main directory of the game 
 - Enjoy it! 
 
-Configuration: 
+***Configuration:*** 
 - If you want to change keybinds you can also copy flashback.ini and modify it 
 
-USE: (With gamepad) 
+***USE:*** *(With gamepad)*
 Press RB + LT to do a flashback, you need to keep it pressed. 
 While in flashback you can also press RT to do a 3x speeder flashback. 
 
-USE: (With keyboard) 
+*USE: (With keyboard)* 
 Press L key to do a 3x speed flashback, you need to keep it pressed. 
 
 It looks better if you do it in a vehicle, if you are walking it looks very weird. 
 
-Changelog: 
+*Changelog:*
+
 1.0 
 - Initial version 
 
