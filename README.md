@@ -23,11 +23,18 @@ Press L key to do a 3x speed flashback, you need to keep it pressed.
 It looks better if you do it in a vehicle, if you are walking it looks very weird. 
 
 Changelog: 
-1.0 - Initial version 
-1.1 - Added INI configuration file 
-1.2 - Now it flashback 15 near vehicles 
+1.0 
+- Initial version 
+
+1.1 
+- Added INI configuration file 
+
+1.2 
+- Now it flashback 15 near vehicles 
 - Now you will restore your vehicle speed after each flashback (You need to keep accelerator key (Default: W) pressed, if not the vehicle engine will stop for a few seconds. 
-1.3 - If you exit from a vehicle and then you do a flashback, you will re-enter on vehicle 
+
+1.3
+- If you exit from a vehicle and then you do a flashback, you will re-enter on vehicle 
 - Restore your player health, vehicle body health, vehicle engine health, and vehicle dirty level. 
 - Restore your wanted level, and wanted circle position. 
 - Now it uses a better native to restore your vehicle speed and now it also restore your rotation speed.
